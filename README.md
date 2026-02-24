@@ -3,12 +3,12 @@ The goal of this project is to predict a person’s salary based on features suc
 
 Years of experience
 
-Education level
+Monthly Salary
 
-Job role
+Job rate
 
-Location
+Department 
 
-Skills
+Annual Salary
 
-Company size
+Country
